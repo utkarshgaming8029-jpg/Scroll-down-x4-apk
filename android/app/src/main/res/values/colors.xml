@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- SCROLL DOWN Dark Purple Neon Brand Palette -->
+    <color name="neon_purple_primary">#A855F7</color>
+    <color name="neon_purple_dark">#7E22CE</color>
+    <color name="neon_magenta_accent">#EC4899</color>
+    <color name="neon_cyan_glow">#06B6D4</color>
+    <color name="neon_violet_light">#C084FC</color>
+
+    <!-- Dark Backgrounds -->
+    <color name="bg_dark_obsidian">#0A0512</color>
+    <color name="bg_dark_purple">#130924</color>
+    <color name="bg_dark_surface">#1C0E34</color>
+    <color name="bg_card_surface">#251445</color>
+
+    <!-- Text & State -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#CBD5E1</color>
+    <color name="text_muted">#94A3B8</color>
+</resources>

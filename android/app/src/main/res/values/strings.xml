@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SCROLL DOWN</string>
+    <string name="tagline">Scroll deeper into the neon feed</string>
+    <string name="package_id">com.scrolldown.social</string>
+</resources>

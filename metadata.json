@@ -1,0 +1,6 @@
+{
+  "name": "SCROLL DOWN",
+  "description": "SCROLL DOWN: Native Android social media app in Kotlin & Jetpack Compose featuring Reels, Stories, real-time Chat, Gemini Nano Banana 2.1 image generation, and Gemini 4 Argon image analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
